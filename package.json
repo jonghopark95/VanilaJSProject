@@ -1,0 +1,22 @@
+{
+  "name": "vanilajsproject_nm",
+  "version": "1.0.0",
+  "description": "studying vanila js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonghopark95/VanilaJSProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonghopark95/VanilaJSProject/issues"
+  },
+  "homepage": "https://github.com/jonghopark95/VanilaJSProject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
